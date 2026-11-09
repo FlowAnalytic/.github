@@ -1,4 +1,4 @@
-![FlowAnalytic in a security operations center](flowanalytic-control-room.png)
+![FlowAnalytic in a security operations center](flowanalytic-operations-center.png)
 
 ![FlowAnalytic: Real-Time Analysis of Dense Motion](flowanalytic-crowd.png)
 
