@@ -1,6 +1,6 @@
-![FlowAnalytic: Real-Time Analysis of Dense Motion](flowanalytic-crowd.png)
-
 ![FlowAnalytic in a security operations center](flowanalytic-cover.png)
+
+![FlowAnalytic: Real-Time Analysis of Dense Motion](flowanalytic-crowd.png)
 
 At FlowAnalytic, we develop real-time video analytics that measure organized motion in dense, unstructured scenes: pedestrian crowds, vehicle traffic and drone formations. Where conventional object detection struggles because people and vehicles overlap, FlowAnalytic separates intersecting flows and reports the size, direction and speed of each moving group within a few video frames.
 
