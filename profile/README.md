@@ -1,3 +1,5 @@
+![FlowAnalytic at a stadium and transit hub](flowanalytic-stadium-city.png)
+
 ![FlowAnalytic in a security operations center](flowanalytic-operations-center.png)
 
 ![FlowAnalytic: Real-Time Analysis of Dense Motion](flowanalytic-crowd.png)
