@@ -10,6 +10,8 @@ Control rooms monitor hundreds of camera feeds, yet dense crowds remain difficul
 
 FlowAnalytic measures motion at scales ranging from individual objects to thousands of tracked features at once. It combines multiple detection methods with three tracking algorithms to measure position, displacement, speed, and direction; reconstruct trajectories; and separate intersecting flows. It also quantifies how speed and direction vary within a scene. We have applied FlowAnalytic to more than 70 distinct motion scenarios.
 
+Tracking reveals the liaisons between moving objects—where paths cross, flows converge, and an encounter may become a collision or a confrontation. We’re building FlowAnalytic to recognize these dangerous liaisons early enough to help prevent them. A crowd need not become a confrontation; an approaching drone need not become an impact. What happens where paths meet is not beyond our control.
+
 **Defense and security**
 
 We have applied FlowAnalytic to military-drone footage, dense drone swarms, drone-swarm engagement, crowds, airport terminals, border-control scenes, pedestrian crossings, and traffic.
