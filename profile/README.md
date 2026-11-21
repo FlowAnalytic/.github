@@ -37,3 +37,5 @@ The camera application now includes speed measurements based on camera-frame tim
 Beyond existing street and venue camera networks, public-safety applications include compact cameras for police cars, fire trucks, schools, and border-patrol operations. Defense applications include drone and drone-swarm tracking and perimeter monitoring.
 
 - [Contact us](mailto:alexandre.matov@gmail.com)
+
+“Beyond the walls of intelligence, life is defined.”
