@@ -10,18 +10,6 @@ Control rooms monitor hundreds of camera feeds, yet dense crowds remain difficul
 
 FlowAnalytic measures motion at scales ranging from individual objects to thousands of tracked features at once. It combines multiple detection methods with three tracking algorithms to measure position, displacement, speed, and direction; reconstruct trajectories; and separate intersecting flows. It also quantifies how speed and direction vary within a scene. We have applied FlowAnalytic to more than 70 distinct motion scenarios.
 
-**Life sciences and healthcare**
-
-FlowAnalytic measures movement across cellular and subcellular systems:
-
-- **Cells and organoids:** live cells and patient-derived cancer organoids, including drug responses, cell division, and wound healing.
-- **Cytoskeleton:** microtubule polymerization, shortening, and pausing; actin flows; and focal-adhesion dynamics involving vinculin and paxillin.
-- **Axonal transport:** movement of mitochondria, lysosomes, and extracellular vesicles, including motile fraction, anterograde and retrograde velocities, run lengths, and pauses.
-- **Nuclear dynamics:** transcription-factor and nucleoporin dynamics, nuclear-envelope bending and contraction, and nuclear import and export.
-- **Chromatin and signaling:** histone reorganization after drug treatment and live-cell surface-receptor activity.
-
-The same tracking technology also runs inside CO₂ incubators to measure drug effects on patient cells in a hospital setting.
-
 **Defense and security**
 
 We have applied FlowAnalytic to military-drone footage, dense drone swarms, drone-swarm engagement, crowds, airport terminals, border-control scenes, pedestrian crossings, and traffic.
