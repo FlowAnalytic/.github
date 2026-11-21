@@ -26,16 +26,18 @@ During a live city-center capture, the alerting system was connected to the VMS,
 
 Within a configured VMS workflow, operators can receive camera-linked alarms in their monitoring client, investigate incidents, and display the relevant feed on a video wall. Our goal is to give them earlier visibility into counterflow, sudden increases in speed, dispersal, and flows converging at choke points—supporting decisions to open exits, redirect people, or dispatch staff.
 
+“Beyond the walls of intelligence, life is defined.”
+
 **What we’re building next**
 
 We’re bringing on-camera processing and VMS alerts together in one demonstration: FlowAnalytic running inside a surveillance camera overlooking a live crowded scene, sending alerts through the VMS, and preserving evidence that explains each trigger.
 
 The camera application now includes speed measurements based on camera-frame timestamps, an alert rule applied within a selected region, and a rolling history of measurements and tracking vectors before and after each alert. Next, we are connecting camera-generated events to the VMS and completing synchronized visual evidence capture.
 
-**We welcome pilot sites** with surveillance cameras overlooking busy pedestrian areas, including transit stations, plazas, venue entrances, and shopping streets.
+**It’s beyond my control**
+
+We welcome pilot sites with surveillance cameras overlooking busy pedestrian areas, including transit stations, plazas, venue entrances, and shopping streets.
 
 Beyond existing street and venue camera networks, public-safety applications include compact cameras for police cars, fire trucks, schools, and border-patrol operations. Defense applications include drone and drone-swarm tracking and perimeter monitoring.
-
-“Beyond the walls of intelligence, life is defined.”
 
 - [Contact us](mailto:alexandre.matov@gmail.com)
