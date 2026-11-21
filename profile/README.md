@@ -34,7 +34,7 @@ We’re bringing on-camera processing and VMS alerts together in one demonstrati
 
 The camera application now includes speed measurements based on camera-frame timestamps, an alert rule applied within a selected region, and a rolling history of measurements and tracking vectors before and after each alert. Next, we are connecting camera-generated events to the VMS and completing synchronized visual evidence capture.
 
-**It’s beyond my control**
+**“It’s beyond my control”**
 
 We welcome pilot sites with surveillance cameras overlooking busy pedestrian areas, including transit stations, plazas, venue entrances, and shopping streets.
 
