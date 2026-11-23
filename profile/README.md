@@ -42,4 +42,25 @@ We welcome pilot sites with surveillance cameras overlooking busy pedestrian are
 
 Beyond existing street and venue camera networks, public-safety applications include compact cameras for police cars, fire trucks, schools, and border-patrol operations. Defense applications include drone and drone-swarm tracking and perimeter monitoring.
 
+I would like to develop a field pilot for our real-time crowd-flow analysis system.
+
+We have already conducted multiple tests using live camera feeds from several locations, including sites in New York City and Düsseldorf Airport. The system tracks movement, displays motion vectors over the live video, and generates automated alerts within security video-management software. These tests demonstrate the system operating on live pedestrian activity across different locations.
+
+The project brings together expertise that covers the path from detecting movement to operating a system across multiple sites. Our advisors' backgrounds include:
+- software that searches organizational information and produces traceable matches, which could help operators connect alerts with response procedures, site instructions, and previous incidents;
+- platforms for deploying and managing AI applications across on-site servers and cloud infrastructure, relevant to allocating computing resources, distributing updates, controlling access, and monitoring installations as camera numbers grow;
+- communications and information systems supporting military operations, which add a perspective on reliable alert delivery, secure access, interoperability, and recovery from connection failures.
+
+The camera and video-management ecosystem provides the practical foundation for deployment. Network cameras supply the live feeds, while compatible camera platforms offer the possibility of running analysis locally. Integration with video-management software places automated alerts alongside the feeds, recordings, and incident-handling tools operators already use. Data-engineering and analytical capabilities could then connect those alerts with access-control events, occupancy information, and incident records. Distributors, resellers, and integrators provide the channels through which institutional customers can acquire, install, and support the system.
+
+I would like to build on those results by working directly with a local operator and security integrator at a station passage, venue entrance, or pedestrian bottleneck. The objectives would be to:
+- configure the system for the site and agree with the operator which movement patterns warrant attention;
+- evaluate automated alerts with operators, comparing detections with activity on the ground and measuring missed events, nuisance alerts, and detection delay under changing crowd and lighting conditions;
+- demonstrate the complete response workflow: identify unusual movement, deliver an automated alert, review the associated video, document the operator's response, and establish which alerts warrant action;
+- define deployment requirements, including camera compatibility, local versus central processing, network access, installation costs, and ongoing support.
+
+Being there would let me investigate questionable alerts at the site, assess camera positioning and network constraints with the installer, and determine whether processing should run near the cameras or on a central server. Meetings with a local integrator would establish installation costs, maintenance responsibilities, and support requirements.
+
+I would like to generate a documented field evaluation, a live operator demonstration, and a concrete deployment proposal. After identifying a suitable site operator and security integrator, I would plan a visit around confirmed camera access and meetings.
+
 - [Contact us](mailto:alexandre.matov@gmail.com)
