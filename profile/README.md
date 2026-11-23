@@ -20,9 +20,9 @@ FlowAnalytic also runs directly inside network surveillance cameras as a camera 
 
 **Live feeds and VMS integration**
 
-We connected FlowAnalytic to two live feeds overlooking a busy city-center pedestrian area: a public live stream and a city traffic camera. Processing ran entirely on our cloud server alongside an enterprise video management system (VMS), which received the live feed while FlowAnalytic tracked its motion in real time.
+We connected FlowAnalytic to live feeds from several locations: a busy pedestrian area in New York City (a public live stream and a city traffic camera), a terminal area at Düsseldorf Airport, and a public highway camera. Processing ran entirely on our cloud server alongside an enterprise video management system (VMS), which received each live feed while FlowAnalytic tracked its motion in real time.
 
-The alert workflow starts with a baseline measurement of normal motion to inform the threshold. When mean flow speed remains above the configured limit for a sustained period, FlowAnalytic sends an event to the VMS, which creates an alarm linked to that camera.
+Alert rules are configured for each scene. A speed rule fires when mean flow speed stays above a limit, set from a baseline of normal motion, for a sustained period. A new-flow rule fires when an additional movement stream appears. A counterflow rule fires when an estimated group of four or more people moves against the expected direction for at least three seconds, and keeps a single incident open while the condition lasts. Each alert is sent to the VMS, which creates an alarm linked to that camera.
 
 During a live city-center capture, the alerting system was connected to the VMS, but no alert fired as the crowd moved steadily. On a live public highway feed, the same event-to-alarm chain produced four alarms. For one, we preserved a frame-by-frame evidence sequence with tracking vectors and measurements showing exactly why the alert fired.
 
